@@ -1,0 +1,12 @@
+Info:
+    app:
+        name: Ankesh ProductService
+        description: This is Product Catalogue spring boot application developed by Ankesh
+        version: 1.0.0
+
+server:
+    port: 8081
+
+mongodb:
+    connection:
+        string: mongodb://test:test@ds151450.mlab.com:51450/pratice
